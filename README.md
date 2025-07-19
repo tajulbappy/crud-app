@@ -18,3 +18,7 @@ A full-featured **CRUD (Create, Read, Update, Delete)** application built using 
 - **Bootstrap** (or your styling framework)
 - **UUID** (or nanoid for unique IDs)
 - **Optional**: React Router, Font Awesome
+
+### [Click here to see the project demo](https://tajul-crud.netlify.app/)
+
+
