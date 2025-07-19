@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+.formGroup {
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.card_f {
+  background: gray;
+  width: 330px;
+  height: 100px;
+}
+.card_c {
+  background: orange;
+  width: 330px;
+  height: 100px;
+}
+
+.icon_f {
+  background-color: white;
+  margin: 1rem;
+  padding: 0.5rem;
+  font-size: 5rem;
+  color: blue;
+  border-radius: 0.5rem;
+}
+.icon_y {
+  background-color: white;
+  margin: 1rem;
+  padding: 0.5rem;
+  font-size: 6rem;
+  color: red;
+  border-radius: 0.5rem;
+}
+
+/* .headingStyle {
+    background-color: purple;
+    color: white;
+    padding: 15px;
+    margin: .3px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.largeStyle{
+    font-size: 27px;
+    margin-bottom: 1rem;
+}
+
+.card{
+    width: 250px;
+    height: 300px;
+    margin: 15px;
+    padding: 15px;
+    display: inline-block;
+    background-color: #ffdd77;
+    box-shadow: 2px 4px 4px gray;
+    border-radius: 10px;
+}
+.card-title{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.card-body{
+    text-align: justify;
+    margin-bottom: 40px;
+}
+
+.card-footer{
+    text-align: center;
+    font-weight: bold;
+}
+
+.todolist{
+    background:orange;
+    height: 70px;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 3px;
+}
+.todolist p{
+    margin-top: 10px;
+} */
+
+.parent {
+  background: brown;
+}
