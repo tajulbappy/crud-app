@@ -1,20 +1,20 @@
-CRUD APP project plan :
+# React Redux Toolkit CRUD App
 
-step-1: package install - react-redux/ react-route-dom/ @reduxjs/toolkit
-step-2: configure navbar using routing
+A full-featured **CRUD (Create, Read, Update, Delete)** application built using **React.js** and **Redux Toolkit** for state management. This project demonstrates modern React development patterns with global state handling, reusable components, and a clean UI.
 
+## Features
 
+- 🔄 Create, Read, Update, and Delete operations
+- ⚛️ State management using Redux Toolkit
+- 🧱 Modular React components
+- 🎨 Styled using Bootstrap or custom CSS
+- 🔍  Search functionality
 
+## Tech Stack
 
-
-
-
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js** (with Hooks)
+- **Redux Toolkit** (`@reduxjs/toolkit`)
+- **React Redux** (`react-redux`)
+- **Bootstrap** (or your styling framework)
+- **UUID** (or nanoid for unique IDs)
+- **Optional**: React Router, Font Awesome
