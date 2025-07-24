@@ -20,6 +20,7 @@ A full-featured **CRUD (Create, Read, Update, Delete)** application built using 
 - **Optional**: React Router, Font Awesome
 
 
-### <a href="https://tajul-crud.netlify.app/" target="_blank">Click here to see the project demo</a>
+### [Click here to see the project demo](https://tajul-crud.netlify.app/)
+
 
 
